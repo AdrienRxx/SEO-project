@@ -665,6 +665,9 @@ a {
 .hero-bloc-text-sub {
     font-size: 36px;
 }
+.backgroud-black {
+    background-color: #0D0D0D;
+}
 
 .statement-bloc-text {
     line-height: 26px;
@@ -767,7 +770,7 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: #364577;
+    background-color: #0D0D0D;
 }
 
 .bgc-atomic-tangerine {
@@ -779,7 +782,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #0D0D0D;
     color: #FFFFFF!important;
 }
 
